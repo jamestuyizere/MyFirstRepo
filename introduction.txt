@@ -1,0 +1,7 @@
+Brief Introduction About Myself
+
+Hello! My name is James Tuyizere, 
+
+As someone new to Git, I’m excited to explore its potential for collaboration, project tracking, and open-source contribution.
+
+I look forward to connecting with others in the GitHub community, learning from their experiences, and contributing to meaningful projects as I grow in this space.
