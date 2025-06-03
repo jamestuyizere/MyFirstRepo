@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+1. Deepen my knowledge and practical skills in Git, GitHub, and version control workflows.
+2. Contribute to open-source projects and collaborate with other developers.
+3. Develop and publish at least one meaningful project on GitHub.
+4. Enhance my research by integrating technical tools and automation where possible.
+5. Stay consistent with continuous learning through courses, reading, and experimentation.
