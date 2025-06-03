@@ -1,2 +1,2 @@
-this course me has taught me how to use git and git hub
+this course has taught me the fundamentals of using git and github for version control and collaboration. i learned how to clone reoisitories , create and edit file locally, commit changes and push them to a remote repository . these skills are essential for managing code effeciently and working with others on software projects this course me has taught me how to use git and git hub
 # update time
